@@ -1,0 +1,27 @@
+.heading{
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    background-image: url("./pattern.jpeg");
+}
+
+.section1{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+}
+
+main h3{
+    font-weight: bold;
+    font-family: Helvetica;
+}
+
+p span{
+    font-family: Helvetica;
+font-weight: bold;
+color: blue;
+}
